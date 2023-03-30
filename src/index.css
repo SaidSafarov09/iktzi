@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+@font-face {
+  font-family: 'TTOctosquares';
+  src: url(./fonts/TTOctosquares-Regular.ttf);
+}
+@font-face {
+  font-family: 'FRONTRUNNER';
+  src: url(./fonts/main/FRONTRUNNER.TTF);
+}
